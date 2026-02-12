@@ -1,0 +1,20 @@
+{
+  "name": "openbird-webhook-node",
+  "version": "1.0.0",
+  "description": "Receive and handle OpenBird webhook events",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "keywords": [
+    "openbird",
+    "feishu",
+    "lark",
+    "webhook"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
