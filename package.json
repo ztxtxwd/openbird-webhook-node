@@ -1,6 +1,6 @@
 {
   "name": "openbird-webhook-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Receive and handle OpenBird webhook events",
   "type": "module",
   "main": "src/index.js",
@@ -16,5 +16,8 @@
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "openbird-webhook-node": "1.0.0"
   }
 }
