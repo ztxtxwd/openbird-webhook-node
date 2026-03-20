@@ -153,7 +153,7 @@ Events are JSON objects posted by OpenBird:
   "timestamp": 1739347200000,
   "data": {
     "id": "7604769001905884091",
-    "conversation": {
+    "chat": {
       "id": "7599271773103737795",
       "type": "group"
     },
